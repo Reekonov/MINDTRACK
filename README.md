@@ -2,7 +2,7 @@
 
 Telegram bot for tracking habits, tasks, water, food, and reflections.
 
-## Возможности
+## Features
 - Add and mark tasks as done
 - Track meals and water intake
 - Keep a reflection diary
