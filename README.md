@@ -20,7 +20,7 @@ Telegram bot for tracking habits, tasks, water, food, and reflections.
    ```
 3. Add your bot token to `.env`:
    ```
-   TELEGRAM_BOT_TOKEN=ваш_токен
+   TELEGRAM_BOT_TOKEN= ...
    ```
 4. Run the bot:
    ```
